@@ -1,6 +1,8 @@
 ---
 title: "My Analysis"
 format: html
+editor_options: 
+  chunk_output_type: inline
 ---
 
 ```{r}
@@ -12,5 +14,16 @@ library(here)
 ```{r}
 df <- read_csv(here("data/levinson_2007_particles.csv"))
 
+```
+
+Let's observe some funky stuff with working directories. We're going to run
+the following code three different ways, and see what result we get:
+
+ - with code set to output inline
+ - with code set to output in console
+ - rendering to html
+
+```{r}
+getwd()
 ```
 
