@@ -1,0 +1,16 @@
+---
+title: "My Analysis"
+format: html
+---
+
+```{r}
+library(tidyverse)
+here::i_am("analysis/myanalysis.qmd")
+library(here)
+```
+
+```{r}
+df <- read_csv(here("data/levinson_2007_particles.csv"))
+
+```
+
