@@ -47,12 +47,14 @@ l. In one minute, Jane braided the ribbons up tight.
 
 ## Variables
 
-| Abbreviation | Meaning                               |
-|--------------|---------------------------------------|
-| PV           | Particle Verb                         |
-| NoPrt        | No particle                           |
-| PR           | Pseudo-resultative                    |
-| RR           | Resultative                           |
-| Prt1         | Particle in 1st position, pre-object  |
-| Prt2         | Particle in 2nd position, post-object |
-| DP           | Determiner Phrase (object)            |
+| Column  | Variable                          |
+|---------|-----------------------------------|
+| 1       | trial number (overall)            |
+| 2       | participant number                |
+| 3       | trial start time (Unix timestamp) |
+| 4       | trial end time (Unix timestamp)   |
+| 5       | condition names                   |
+| 6       | condition group                   |
+| 7       | item number                       |
+| 8       | likert rating (1-7)               |
+| 9       | stimulus list number              |
