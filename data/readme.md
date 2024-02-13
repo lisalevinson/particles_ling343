@@ -32,18 +32,18 @@ adjectives.
 
 ## Example Sentences:
 
-a. In ten minutes, Mary smoothed the ribbons.
-b. In ten minutes, Mary smoothed out the ribbons.
-c. In ten minutes, Mary smoothed the ribbons out.
-d. In ten minutes, Mary smoothed the ribbons flat.
-e. In ten minutes, Mary smoothed out the ribbons flat.
-f. In ten minutes, Mary smoothed the ribbons out flat.
-g. In one minute, Jane braided the ribbons.
-h. In one minute, Jane braided up the ribbons.
-i. In one minute, Jane braided the ribbons up.
-j. In one minute, Jane braided the ribbons tight.
-k. In one minute, Jane braided up the ribbons tight.
-l. In one minute, Jane braided the ribbons up tight.
+a. In ten minutes, Mary smoothed the ribbons. 
+b. In ten minutes, Mary smoothed out the ribbons. 
+c. In ten minutes, Mary smoothed the ribbons out. 
+d. In ten minutes, Mary smoothed the ribbons flat. 
+e. In ten minutes, Mary smoothed out the ribbons flat. 
+f. In ten minutes, Mary smoothed the ribbons out flat. 
+g. In one minute, Jane braided the ribbons. 
+h. In one minute, Jane braided up the ribbons. 
+i. In one minute, Jane braided the ribbons up. 
+j. In one minute, Jane braided the ribbons tight. 
+k. In one minute, Jane braided up the ribbons tight. 
+l. In one minute, Jane braided the ribbons up tight. 
 
 ## Variables
 
